@@ -1,0 +1,1 @@
+web: gunicorn wordconverter.wsgi --log-file -
